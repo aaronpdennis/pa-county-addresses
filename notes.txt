@@ -1,0 +1,49 @@
+OpenAddresses already has:
+
+ADAMS -- ESRI
+ALLEGHENY -- PASDA 2015
+BEAVER -- ESRI
+BERKS -- ESRI
+BUCKS -- ESRI
+BUTLER -- ESRI
+CAMBRIA -- ESRI
+CENTRE -- ESRI
+CHESTER -- ESRI
+CLEARFIELD -- ESRI
+CLINTON -- ESRI
+CRAWFORD -- ESRI
+CUMBERLAND -- ESRI
+DAUPHIN -- ESRI
+FRANKLIN -- ESRI
+FULTON -- ESRI
+LANCASTER -- ESRI
+PHILADELPHIA -- OpenPhilly
+SNYDER -- ESRI
+WAYNE -- ESRI
+
+
+Source point data was provided by the counties of Adams, Armstrong, Bedford, Blair, Cambria, Cameron, Carbon, Clarion, Clearfield, Columbia, Crawford, Cumberland, Elk, Erie, Fayette, Fulton, Greene, Huntingdon, Jefferson, Juniata, Lawrence, Lehigh, Luzerne, Lycoming, McKean, Mercer, Monroe, Montour, Northumberland, Perry, Pike, Potter, Schuylkill, Somerset, Susquehanna, Sullivan, Tioga, Union, Warren, Wayne, Westmoreland, Wyoming.
+
+Points were created from source building footprint data provided by the counties of Allegheny, Bucks, Bradford, Centre, Clinton, Forest, Lackawanna, Lancaster, Lebanon, Mifflin, Philadelphia, and Venango.
+
+
+Should be added, accuracy, valid:
+
+ARMSTRONG,5,Y
+BEDFORD,5,Y
+BLAIR,5,Y
+CAMERON,5,Y
+CLARION,5,Y
+ELK,5,Y
+ERIE,5,Y
+LYCOMING,5,Y
+MCKEAN,2,Y
+MERCER,5,Y
+NORTHUMBERLAND,5,Y
+PIKE,5,Y
+POTTER,5,Y
+SOMERSET,5,Y
+SULLIVAN,5,Y
+TIOGA,5,Y
+UNION,5,Y
+VENANGO,2,Y

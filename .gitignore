@@ -1,0 +1,5 @@
+*.dbf
+*.shp
+*.shx
+PAMAP_Building/
+county_boundaries/

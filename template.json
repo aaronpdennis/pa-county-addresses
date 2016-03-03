@@ -1,0 +1,25 @@
+{
+    "coverage": {
+        "US Census": {
+            "geoid": "42101",
+            "name": "Philadelphia County",
+            "state": "Pennsylvania"
+        },
+        "country": "us",
+        "state": "pa",
+        "county": "Philadelphia"
+    },
+    "data": "https://raw.githubusercontent.com/CityOfPhiladelphia/OIT-geodata/master/Open%20Address%20Data/phl_openaddress.csv",
+    "type": "http",
+    "note": "Data extracted from 2009 state government collection. Individual county GIS Offices may have more recent addresses.",
+    "conform": {
+        "type": "csv",
+        "number": "SAN",
+        "street": ["PRD","STP","STN","STS","POD"],
+        "city": "MCN",
+        "lon": "X",
+        "lat": "Y",
+        "id": "PIN",
+        "accuracy": 5
+    }
+}
